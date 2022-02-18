@@ -1,22 +1,22 @@
-### 👨🏻‍💻
+## About me:
+My every day:
+- ⓦ work
+- 📚 read books
+- 🇬🇧 learn English
+- 💪🏻 workout
+- 👨🏻‍💻 study dev 
 
-About me
+## Development:
+- ### 🦫 Golang   (с первой попытки)
 
-Development
+- ### 🐍 Python   (попытка 1039)
 
-Design
+- ### 🐘 PHP      (пуканы успокойте)
 
-<!--
-**ZOORoman/zooroman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ### 🙈 ABAP     (та еще шиза)
 
-Here are some ideas to get you started:
+## Design:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ### 🖼 Photoshop
+- ### ✏️ Illustrator
+- ### ⚒️ Figma
