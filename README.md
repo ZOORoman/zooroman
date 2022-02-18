@@ -1,10 +1,9 @@
 ## About me:
-My every day:
-- ⓦ work
-- 📚 read books
-- 🇬🇧 learn English
-- 💪🏻 workout
-- 👨🏻‍💻 study dev 
+- ### 👨🏻‍💻 develop
+- ### 📚 read books
+- ### 🇬🇧 learn English
+- ### 💪🏻 workout
+- ### 🌏 travel 
 
 ## Development:
 - ### 🦫 Golang   (с первой попытки)
