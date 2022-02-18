@@ -1,4 +1,3 @@
-![Header](https://github.com/ZOORoman/zooroman/blob/main/img/lets_work.jpg)
 ## My way is:
 - ### 👨🏻‍💻 Development
 - ### 📚 Reading books
@@ -20,3 +19,6 @@
 - ### 🖼 Photoshop
 - ### ✏️ Illustrator
 - ### ⚒️ Figma
+
+# Let's GO! 🚀
+![Footer](https://github.com/ZOORoman/zooroman/blob/main/img/lets_work.jpg)
