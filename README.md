@@ -1,9 +1,10 @@
-## About me:
-- ### 👨🏻‍💻 develop
-- ### 📚 read books
-- ### 🇬🇧 learn English
-- ### 💪🏻 workout
-- ### 🌏 travel 
+|[Header](https://github.com/ZOORoman/zooroman/blob/main/img/lets_work.jpg)|
+## My way is:
+- ### 👨🏻‍💻 Development
+- ### 📚 Reading books
+- ### 🇬🇧 Learning English
+- ### 💪🏻 Sport
+- ### 🌏 Travel
 
 ## Development:
 - ### 🦫 Golang   (с первой попытки)
