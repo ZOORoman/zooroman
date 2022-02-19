@@ -20,8 +20,7 @@
 - ### ✏️ Illustrator
 - ### ⚒️ Figma
 #
-<p align="center">
-Let's GO! 🚀
-</p>
 ![Footer](https://github.com/ZOORoman/zooroman/blob/main/img/lets_work.jpg)
 #
+
+<h2 align="center">Let's GO! 🚀</h2>
