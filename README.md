@@ -21,6 +21,5 @@
 - ### ⚒️ Figma
 #
 ![Footer](https://github.com/ZOORoman/zooroman/blob/main/img/lets_work.jpg)
-#
 
-<h2 align="center">Let's GO! 🚀</h2>
+<h1 align="center">Let's GO! 🚀</h1>
