@@ -1,18 +1,18 @@
-## My way is:
+## My life is:
 - ### 👨🏻‍💻 Development
 - ### 📚 Reading books
 - ### 🇬🇧 Learning English
 - ### 💪🏻 Sport
 - ### 🌏 Travel
 
-## Development:
-- ### 🦫 Golang   (с первой попытки)
+## LangDev:
+- ### 🦫 Golang
 
-- ### 🐍 Python   (попытка 1039)
+- ### 🐍 Python
 
-- ### 🐘 PHP      (пукан горящий)
+- ### 🐘 PHP
 
-- ### 🙈 ABAP     [та еще шиза]
+- ### 🙈 ABAP
 
 ## Design:
 
