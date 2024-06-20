@@ -1,15 +1,15 @@
 ## My site -> XXXXXXX
 
 ## Hobby project:
-- ### 🦫 -> [Go] <- (https://github.com/ZOORoman/golang)
+- ### 🦫 -> [Go](https://github.com/ZOORoman/golang) <-
 
-- ### 🐘 -> [PHP] <- (https://github.com/ZOORoman/php)
+- ### 🐘 -> [PHP](https://github.com/ZOORoman/php) <-
 
-- ### 🙈 -> [ABAP] <- (https://github.com/ZOORoman/abap)
+- ### 🙈 -> [ABAP](https://github.com/ZOORoman/abap) <-
 
-- ### 🦜 -> [Swift] <- (https://github.com/ZOORoman/swift)
+- ### 🦜 -> [Swift](https://github.com/ZOORoman/swift) <-
 
-- ### 🐍 -> [Python] <- (https://github.com/ZOORoman/python)
+- ### 🐍 -> [Python](https://github.com/ZOORoman/python) <-
 
 ## Other technology:
 - ### 🧾 SQL, NOSQL, ETL, Message Brokers, Monitoring, Docker, K8s
