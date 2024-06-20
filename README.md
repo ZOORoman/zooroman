@@ -1,16 +1,20 @@
 ## My site -> XXXXXXX
 
-## LangDev:
-- ### 🦫 Golang
+## Hobby project:
+- ### 🦫 -> [Go] <- (https://github.com/ZOORoman/golang)
 
-- ### 🐍 Python
+- ### 🐘 -> [PHP] <- (https://github.com/ZOORoman/php)
 
-- ### 🐘 PHP
+- ### 🙈 -> [ABAP] <- (https://github.com/ZOORoman/abap)
 
-- ### 🙈 ABAP
+- ### 🦜 -> [Swift] <- (https://github.com/ZOORoman/swift)
+
+- ### 🐍 -> [Python] <- (https://github.com/ZOORoman/python)
+
+## Other technology:
+- ### 🧾 SQL, NOSQL, ETL, Message Brokers, Monitoring, Docker, K8s
 
 ## Design:
-
 - ### 🖼 Photoshop
 - ### ✏️ Illustrator
 - ### ⚒️ Figma
