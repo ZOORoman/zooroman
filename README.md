@@ -1,6 +1,6 @@
 ## My site -> XXXXXXX
 
-## Hobby project:
+## Project on:
 - ### 🦫 -> [Go](https://github.com/ZOORoman/golang) <-
 
 - ### 🐘 -> [PHP](https://github.com/ZOORoman/php) <-
